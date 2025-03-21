@@ -19,7 +19,7 @@ All Cellule applications share the same stack and are **fully containerized with
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white)  
+![Shadcn/ui](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)  
 
 **Backend:**  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
